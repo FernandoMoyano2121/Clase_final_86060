@@ -5,9 +5,6 @@ Breve descripción del proyecto en 1-2 líneas explicando qué hace y su propós
 
 
 
-![alt text](image-url)
-
-
 # ⚙️ Características
 ---
 
