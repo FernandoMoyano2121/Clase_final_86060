@@ -1,0 +1,180 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Laptop Gaming RGB",
+      "descripcion": "Laptop de alto rendimiento para gaming con iluminación RGB y procesador Intel i7",
+      "precio": 1299.99,
+      "categoria": "Electrónicos",
+      "imagen": "assets/images/laptop-gaming.jpg",
+      "stock": 15,
+      "disponible": true,
+      "descuento": 10,
+      "etiquetas": ["gaming", "laptop", "rgb", "intel"]
+    },
+    {
+      "id": "2",
+      "nombre": "Smartphone Pro Max",
+      "descripcion": "Teléfono inteligente con cámara profesional de 108MP y batería de larga duración",
+      "precio": 899.99,
+      "categoria": "Electrónicos",
+      "imagen": "assets/images/smartphone-pro.jpg",
+      "stock": 32,
+      "disponible": true,
+      "descuento": 0,
+      "etiquetas": ["smartphone", "cámara", "batería"]
+    },
+    {
+      "id": "3",
+      "nombre": "Auriculares Bluetooth",
+      "descripcion": "Auriculares inalámbricos con cancelación de ruido y 30 horas de batería",
+      "precio": 199.99,
+      "categoria": "Electrónicos",
+      "imagen": "assets/images/auriculares-bt.jpg",
+      "stock": 45,
+      "disponible": true,
+      "descuento": 15,
+      "etiquetas": ["auriculares", "bluetooth", "cancelación ruido"]
+    },
+    {
+      "id": "4",
+      "nombre": "Camiseta Casual",
+      "descripcion": "Camiseta de algodón 100% orgánico, cómoda y transpirable",
+      "precio": 29.99,
+      "categoria": "Ropa",
+      "imagen": "assets/images/camiseta-casual.jpg",
+      "stock": 50,
+      "disponible": true,
+      "descuento": 0,
+      "etiquetas": ["camiseta", "algodón", "casual"]
+    },
+    {
+      "id": "5",
+      "nombre": "Jeans Clásicos",
+      "descripcion": "Jeans de corte clásico con acabado vintage, tallas disponibles de 28 a 40",
+      "precio": 79.99,
+      "categoria": "Ropa",
+      "imagen": "assets/images/jeans-clasicos.jpg",
+      "stock": 25,
+      "disponible": true,
+      "descuento": 20,
+      "etiquetas": ["jeans", "clásico", "vintage"]
+    },
+    {
+      "id": "6",
+      "nombre": "Zapatillas Deportivas",
+      "descripcion": "Zapatillas para running con tecnología de amortiguación avanzada",
+      "precio": 129.99,
+      "categoria": "Calzado",
+      "imagen": "assets/images/zapatillas-running.jpg",
+      "stock": 18,
+      "disponible": true,
+      "descuento": 5,
+      "etiquetas": ["zapatillas", "running", "deportivas"]
+    },
+    {
+      "id": "7",
+      "nombre": "Reloj Inteligente",
+      "descripcion": "Smartwatch con monitor de salud, GPS y resistencia al agua",
+      "precio": 299.99,
+      "categoria": "Electrónicos",
+      "imagen": "assets/images/smartwatch.jpg",
+      "stock": 12,
+      "disponible": true,
+      "descuento": 0,
+      "etiquetas": ["smartwatch", "salud", "gps"]
+    },
+    {
+      "id": "8",
+      "nombre": "Mochila Urbana",
+      "descripcion": "Mochila resistente al agua con compartimento para laptop hasta 15 pulgadas",
+      "precio": 59.99,
+      "categoria": "Accesorios",
+      "imagen": "assets/images/mochila-urbana.jpg",
+      "stock": 35,
+      "disponible": true,
+      "descuento": 0,
+      "etiquetas": ["mochila", "laptop", "resistente agua"]
+    },
+    {
+      "id": "9",
+      "nombre": "Cafetera Automática",
+      "descripcion": "Cafetera programable con molinillo integrado y función de auto-limpieza",
+      "precio": 349.99,
+      "categoria": "Hogar",
+      "imagen": "assets/images/cafetera-automatica.jpg",
+      "stock": 8,
+      "disponible": true,
+      "descuento": 25,
+      "etiquetas": ["cafetera", "automática", "molinillo"]
+    },
+    {
+      "id": "10",
+      "nombre": "Perfume Elegance",
+      "descripcion": "Fragancia unisex con notas florales y amadeiradas, 100ml",
+      "precio": 89.99,
+      "categoria": "Belleza",
+      "imagen": "assets/images/perfume-elegance.jpg",
+      "stock": 22,
+      "disponible": true,
+      "descuento": 0,
+      "etiquetas": ["perfume", "unisex", "fragancia"]
+    },
+    {
+      "id": "11",
+      "nombre": "Teclado Mecánico RGB",
+      "descripcion": "Teclado gaming mecánico con switches azules y retroiluminación RGB personalizable",
+      "precio": 159.99,
+      "categoria": "Electrónicos",
+      "imagen": "assets/images/teclado-mecanico.jpg",
+      "stock": 0,
+      "disponible": false,
+      "descuento": 0,
+      "etiquetas": ["teclado", "mecánico", "gaming", "rgb"]
+    },
+    {
+      "id": "12",
+      "nombre": "Gafas de Sol Premium",
+      "descripcion": "Gafas de sol con protección UV400 y lentes polarizadas",
+      "precio": 119.99,
+      "categoria": "Accesorios",
+      "imagen": "assets/images/gafas-sol.jpg",
+      "stock": 28,
+      "disponible": true,
+      "descuento": 10,
+      "etiquetas": ["gafas", "sol", "uv400", "polarizadas"]
+    }
+  ],
+  "categorias": [
+    {
+      "id": "electronicos",
+      "nombre": "Electrónicos",
+      "descripcion": "Dispositivos y gadgets tecnológicos"
+    },
+    {
+      "id": "ropa",
+      "nombre": "Ropa",
+      "descripcion": "Prendas de vestir para todas las ocasiones"
+    },
+    {
+      "id": "calzado",
+      "nombre": "Calzado",
+      "descripcion": "Zapatos y zapatillas para todos los estilos"
+    },
+    {
+      "id": "accesorios",
+      "nombre": "Accesorios",
+      "descripcion": "Complementos y accesorios diversos"
+    },
+    {
+      "id": "hogar",
+      "nombre": "Hogar",
+      "descripcion": "Artículos para el hogar y cocina"
+    },
+    {
+      "id": "belleza",
+      "nombre": "Belleza",
+      "descripcion": "Productos de cuidado personal y belleza"
+    }
+  ]
+}
